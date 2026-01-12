@@ -1,6 +1,6 @@
 # 📊 Vendor Performance Analysis
 
-A complete **end-to-end data analysis pipeline** to evaluate and optimize **vendor and inventory performance** in a retail environment using **Python, SQL, Power BI**.
+A complete **end-to-end data analysis pipeline** to evaluate and optimize **vendor and inventory performance** in a retail environment  using **Python, SQL, Power BI**.
 
 ---
 
@@ -8,7 +8,7 @@ A complete **end-to-end data analysis pipeline** to evaluate and optimize **vend
 
 -  **Automated Data Ingestion** into SQLite using Python  
 -  **SQL-based Summary Metrics** for vendor performance  
--  **Exploratory Data Analysis** with outlier detection & insights  
+-  **Exploratory Data Analysis** with outlier detection and insights  
 -  **Profitability Analysis** using Gross Profit, Margins, Turnover, etc.  
 -  **Power BI Dashboard** for executive-level visibility   
 
